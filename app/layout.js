@@ -1,4 +1,4 @@
-import AuthProvider from "./(components)/authProvider";
+import AuthProvider from "./(components)/AuthProvider";
 import Nav from "./(components)/Nav";
 import "./globals.css";
 

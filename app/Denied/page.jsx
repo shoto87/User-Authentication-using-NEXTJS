@@ -7,7 +7,7 @@ const Denied = () => {
         className="text-red-400
       "
       >
-        Denied
+        Access Denied
       </h1>
     </div>
   );
